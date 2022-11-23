@@ -9,4 +9,18 @@
 - Os clientes poderiam acumular esses cupons e trocá-los por vouchers.
 - atuação no comércio de eletrônicos.
 
+
 ### [x] Kenny Wilker
+=======
+
+## Lista de participantes
+
+- Fagner                  [ ]
+- Kenny                   [ ]
+- Wanderson               [ ]
+- Maria Daniela           [ ]
+- Vitor Hugo              [ ]
+- Álvaro Flor             [ ]
+- Lucas Bernardo          [ ]
+- David Santos            [x]
+- Cleber Ribeiro          [ ]
