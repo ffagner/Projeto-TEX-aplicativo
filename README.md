@@ -12,7 +12,7 @@
 - Fagner                  [x]
 - Kenny                   [ ]
 - Wanderson               [ ]
-- Maria Daniela           [ ]
+- Maria Daniela           [x]
 - Vitor Hugo              [ ]
 - Álvaro Flor             [ ]
 - Lucas Bernardo          [ ]
