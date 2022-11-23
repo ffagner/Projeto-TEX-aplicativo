@@ -16,7 +16,6 @@
 - Vitor Hugo              [ ]
 - Álvaro Flor             [x]
 - Vitor Hugo              [x]
-- Álvaro Flor             [ ]
 - Lucas Bernardo          [ ]
 - David Santos            [x]
 - Cleber Ribeiro          [ ]
