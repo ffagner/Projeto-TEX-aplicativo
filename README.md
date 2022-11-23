@@ -13,7 +13,6 @@
 - Kenny                   [ ]
 - Wanderson               [ ]
 - Maria Daniela           [ ]
-- Vitor Hugo              [ ]
 - Álvaro Flor             [x]
 - Vitor Hugo              [x]
 - Lucas Bernardo          [ ]
