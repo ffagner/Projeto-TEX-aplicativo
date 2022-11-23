@@ -14,7 +14,7 @@
 - Wanderson               [ ]
 - Maria Daniela           [ ]
 - Vitor Hugo              [ ]
-- Álvaro Flor             [ ]
+- Álvaro Flor             [x]
 - Lucas Bernardo          [ ]
 - David Santos            [x]
 - Cleber Ribeiro          [ ]
