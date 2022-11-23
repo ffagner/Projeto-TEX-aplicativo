@@ -10,6 +10,9 @@
 - atuação no comércio de eletrônicos.
 
 
+### [x] Kenny Wilker
+=======
+
 ## Lista de participantes
 
 - Fagner                  [ ]
