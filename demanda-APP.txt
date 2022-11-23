@@ -1,0 +1,200 @@
+1 - [x] Analisar as features imaginadas no product backlog
+
+	[x] Tela de login
+		- Inputs
+		  * email
+ 		  * senha
+		- Botões
+		  * Entrar
+		  * Entrar com google
+		- Esqueceu sua senha.
+		  * É gerado uma nova senha aleatória e disparado um email para o email cadastrado.
+ 	[x] Tela de cadastro
+		- Inputs
+		  * Campo nome 
+		  * Campo sobrenome
+		  * CPF	
+		  * Telefone
+		  * Email
+		  * Data de nascimento
+   		  * Cep
+		  * Cidade 
+ 		  * Estado
+		  * Senha e confirmação de senha
+		- Botões
+		  * Finalizar cadastro 
+	[x] Tela de Cupons e vouches
+		- Tabela 
+		  * Número de ID do cupom ou voucher com o valor do benefício
+		  * Validade do cupom
+		  * Cupom usado
+		  * Cupom expirado
+	[x] Tela de lojas (principal)
+		- Visualizar as lojas com desconto
+		  * Dentro de lojas, visualizar os produtos que ofertam cumpons
+		  * Clicar em pagar cupom copia o cupom
+		  * clicar em ir a loja redireciona para loja para finalizar a compra
+	[x] Como os cupons iram ser gerados
+		- Gerados por gamificação
+		   *[x] Primeiro cadastro
+		   *[ ] Cupom como presente de aniverário
+	 	   *[ ] Indicação
+
+	[ ] Tela de apresentação
+	[ ] Tutorial
+	[ ] Níveis de usuário.
+	[ ] Usuário compartilha cupons 
+
+2 - [x] Validar a mínima quantidade de features possíveis que fazem parte da estrutura raiz do aplicativo (que sem estas não há como lançar um estado de pronto)
+	
+	[x] Tela de login (Epic)
+		- Inputs (Historia de usuário)
+		  * email
+ 		  * senha
+		- Botões (Historia de usuário)
+		  * Entrar
+		  * Entrar com google
+		- Esqueceu sua senha. (Historia de usuário)
+		  * É gerado uma nova senha aleatória e disparado um email para o email cadastrado.
+ 	[x] Tela de cadastro
+		- Inputs
+		  * Campo nome 
+		  * Campo sobrenome
+		  * CPF	
+		  * Telefone
+		  * Email
+		  * Data de nascimento
+    	  * Cep
+		  * Cidade 
+ 		  * Estado
+		  * Senha e confirmação de senha
+		- Botões
+		  * Finalizar cadastro 
+	[x] Tela de Cupons e vouches
+		- Tabela 
+		  * Número de ID do cupom ou voucher com o valor do benefício
+		  * Validade do cupom
+		  * Cupom usado
+		  * Cupom expirado
+	[x] Tela de lojas (principal)
+		* Visualizar as lojas com desconto
+		  - Dentro de lojas, visualizar os produtos que ofertam cumpons
+		  - Clicar em pegar cupom, copiar o cupom
+		  - clicar em ir a loja redireciona para loja para finalizar a compra
+	[x] Como os cupons iram ser gerados
+		- Gerados por gamificação
+		   *[x] Cadastro ganha cupom
+
+3 - [x] Definir mais duas features além da estrutura raiz
+	
+	[x] Tela de apresentação
+	[x] Níveis de usuário.
+		- Caso suba de nível, ganha mais cupom
+
+4 - [x] Validar as features adicionais usando 'Critérios de aceitação' (ver aula 06)
+	
+	Ação => Usuário se cadastra no app em busca de cupons de desconto.
+	Processo => Usuário gera pontos detro do app por meio de gamificação para ganhar cupons vouches.
+	Resultado => Trocar cupons e vouches nas lojas parceiras.
+		
+5 - [x] Quebrar as features em partes menores, ou seja em features que juntas concluem a maior
+	
+	[x] Tela de login (Epic)
+		- Inputs (Historia de usuário)
+		  * email
+ 		  * senha
+		- Botões (Historia de usuário)
+		  * Entrar
+		  * Entrar com google
+		- Esqueceu sua senha. (Historia de usuário)
+		  * É gerado uma nova senha aleatória e disparado um email para o email cadastrado.
+ 	[x] Tela de cadastro (Epic)
+		- Inputs (Historia de usuário)
+		  * Campo nome 
+		  * Campo sobrenome
+		  * CPF	
+		  * Telefone
+		  * Email
+		  * Data de nascimento
+   		  * Cep
+		  * Cidade 
+ 		  * Estado
+		  * Senha e confirmação de senha
+		- Botões (Historia de usúario)
+		  * Finalizar cadastro 
+	[x] Tela de Cupons e vouches (Epic)
+		- Tabela (Historia de usuário)
+		  * Número de ID do cupom ou voucher com o valor do benefício
+		  * Validade do cupom
+		  * Cupom usado
+		  * Cupom expirado
+	[x] Tela de lojas (principal) (Epic)
+		- Visualizar as lojas com desconto (Historia de usário)
+		  * Dentro de lojas, visualizar os produtos que ofertam cumpons
+		  * Clicar em pegar cupom, copiar o cupom
+		  * clicar em ir a loja redireciona para loja para finalizar a compra
+	[x] Como os cupons iram ser gerados (Epic)
+		- Gerados por gamificação
+		   *[x] Cadastro ganha cupom (Historia de usuário)
+		    [x] Níveis de usuário. (Historia de usuário)
+			- Caso suba de nível, ganha mais cupom
+
+6 - [x] Escrever as 'Histórias de Usuário' para cada feature  (ver aula 15)
+	
+	[x] Tela de login (Epic)
+		- Eu como consumidor quero acessar o saite para obter descontos.
+
+ 	[x] Tela de cadastro (Epic)
+		- Eu como consumidor quero me cadastrar no aplicativo para obter descontos, de maneira fácil e rápida.
+ 
+	[x] Tela de Cupons e vouches (Epic)
+		- Eu como consumidor quero conseguir visualizar meus cupons e vouches expirados, validos e usados, de maneira fácil e rápida.
+ 
+	[x] Tela de lojas (principal) (Epic)
+		- Eu como consumidor que poder visualizar os produtos e principais lojas com desconto para efetuar a troca dos meus cupons e vouches, de maneira fácil e rápida.
+
+	[x] Como os cupons iram ser gerados (Epic)
+		- Eu como consumidor quero obter meus cupons por qualquer meio de gamificação que o app ofereça para que eu possa utiliza-los nas lojas parceiras.
+	
+	---------------------------------------------------------
+	| User Points Stories					            	|
+	---------------------------------------------------------
+	| Projeto: App Cupom/Vouchers					        |
+	---------------------------------------------------------
+	|Hisórias  				               | Pontuação      |
+	---------------------------------------------------------
+	|Tela de login	  			           | x	            |
+	---------------------------------------------------------
+	|Tela de cadastro 			           | x	            |
+	---------------------------------------------------------
+	|Tela de cupons e vouches	           | x	            |
+	---------------------------------------------------------
+	|Tela de lojas 				           | x	            |
+	---------------------------------------------------------
+	|Listagem de cupons obtidos		       | x	            |
+	---------------------------------------------------------
+	|Como os cupons seram gerados		   | x	            |
+	---------------------------------------------------------
+	|Total	  				               | x	            |
+	---------------------------------------------------------
+
+7 - [x] Aplicar a técinca de 'Backlog Refinement' para as duas features adicionais usando o formato 'Como [persona], eu [quero/desejo/procuro] [para]'  - (ver aula 14 - Kit Ferramentas)
+	
+	[x] Tela de apresentação
+		- Eu como consumidor quero conhecer como o APP funciona para entender os beneficios de ser um usuário cadastrado.
+	
+	[x] Níveis de usuário.
+		- Eu como consumidor quero subir níveis para obter mais cupons e mais vouches.
+
+O que esperamos dos times:
+
+A espectativa para quinta-feira é que os times concluam de 60% a 70% da demanda, postando documentos que demonstrem a tarefa solicitada.
+
+Git
+
+Façam uso do git para demonstrar que todos participaram por intermédio de commtis e pushs.
+
+Observações
+O time poderá utilizar formatos de documento como pdfs, planilhas ou slides de apresentação.
+
+Lembrem-se está ainda não é a apresentação final, estamos no processo de trabalho e queremos acompanhar a evolução dos Times.
