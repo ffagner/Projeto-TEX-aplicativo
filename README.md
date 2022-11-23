@@ -8,3 +8,5 @@
 - O cliente propôs a criação de um aplicativo que permitisse que os clientes que realizam compras em lojas parceiras do aplicativo, pudessem obter cupons de descontos para compras futuras.
 - Os clientes poderiam acumular esses cupons e trocá-los por vouchers.
 - atuação no comércio de eletrônicos.
+
+[x] Vitor Hugo Rodrigues
