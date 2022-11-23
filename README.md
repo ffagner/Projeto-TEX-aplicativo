@@ -9,7 +9,7 @@
 - Os clientes poderiam acumular esses cupons e trocá-los por vouchers.
 - atuação no comércio de eletrônicos.
 - ## Lista de Participantes
-- Fagner                  [ ]
+- Fagner                  [x]
 - Kenny                   [ ]
 - Wanderson               [ ]
 - Maria Daniela           [ ]
