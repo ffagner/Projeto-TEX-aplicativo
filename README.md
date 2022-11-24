@@ -17,4 +17,4 @@
 - Álvaro Flor             [ ]
 - Lucas Bernardo          [ ]
 - David Santos            [x]
-- Cleber Ribeiro          [ ]
+- Cleber Ribeiro          [x]
