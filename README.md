@@ -10,7 +10,7 @@
 - atuação no comércio de eletrônicos.
 - ## Lista de Participantes
 - Fagner                  [x]
-- Kenny                   [ ]
+- Kenny                   [x]
 - Wanderson               [ ]
 - Maria Daniela           [ ]
 - Vitor Hugo              [ ]
