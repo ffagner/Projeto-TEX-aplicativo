@@ -11,7 +11,7 @@
 - ## Lista de Participantes
 - Fagner [x]
 - Kenny [x]
-- Wanderson [x]
+- Vanderson [x]
 - Maria Daniela [x]
 - Álvaro Flor [x]
 - Vitor Hugo [x]
