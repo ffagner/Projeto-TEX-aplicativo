@@ -17,4 +17,4 @@
 - Vitor Hugo              [x]
 - Lucas Bernardo          [x]
 - David Santos            [x]
-- Cleber Ribeiro          [ ]
+- Cleber Ribeiro          [x]
