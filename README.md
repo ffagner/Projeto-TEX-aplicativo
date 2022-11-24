@@ -15,6 +15,6 @@
 - Maria Daniela           [x]
 - Álvaro Flor             [x]
 - Vitor Hugo              [x]
-- Lucas Bernardo          [ ]
+- Lucas Bernardo          [x]
 - David Santos            [x]
 - Cleber Ribeiro          [ ]
